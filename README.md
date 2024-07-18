@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Kien</h1>
 <h3 align="center">A passionate backend developer from VietNam</h3>
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+[<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenkienynkk&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenkienynkk" /> </p>
 
 - 🌱 I’m currently learning **React Typescript**
